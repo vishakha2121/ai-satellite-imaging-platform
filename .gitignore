@@ -39479,7 +39479,9 @@ lib/
 lib64/
 parts/
 sdist/
-var/
+var/celerybeat.pid
+
+
 wheels/
 share/python-wheels/
 *.egg-info/
@@ -39563,5 +39565,3 @@ __pypackages__/
 
 # Celery stuff
 celerybeat-schedule
-celerybeat.pid
-
